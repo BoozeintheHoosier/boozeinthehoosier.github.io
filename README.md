@@ -1,2 +1,2 @@
-# boozeinthehoosier.github.com
+# boozeinthehoosier.github.io
 Website
